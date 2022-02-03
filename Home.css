@@ -2,10 +2,10 @@
 
 .body {
   background-color: black;
+  color: white;
 }
 
 .header-1 {
   font-family: 'Neonderthaw', cursive;
   text-align: center;
-  color: white;
 }
