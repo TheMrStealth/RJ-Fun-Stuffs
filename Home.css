@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 
 body {
-  background-image: url('5EAA62DE-A808-4604-92BE-7E1B6D2E2A02.jpeg');
+  background-color: black;
 }
 
 .head-1 {
   font-family: 'Neonderthaw', cursive;
   text-align: center;
+  color: white;
 }
